@@ -24,3 +24,8 @@ You are 25 years old.
 ---
 
 Created by Bryan Dave – FP Project App #2
+
+## Screenshot
+
+![Age Calculator Screenshot](age-calculator-screenshot.PNG)
+
